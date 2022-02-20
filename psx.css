@@ -1,0 +1,19 @@
+body {
+background-color: #ffffff;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+}
+
+p {
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: 14px;
+text-align: center;
+color: #0E0E10;
+}
+
+a {
+color: #0E0E10;
+style="text-decoration:underline;">
+}
