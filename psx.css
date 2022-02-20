@@ -1,11 +1,11 @@
 body {
 
 background-color: #ffffff;
-   min-height: 100vh;
+   height: 100vh;
    margin: 0px;
    overflow: hidden;
    position: relative;
-   padding: 30px;
+   padding-buttom: 100px;
 }
 
 p {
