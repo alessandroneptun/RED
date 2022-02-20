@@ -4,8 +4,8 @@ background-color: #ffffff;
    height: 100vh;
    margin: 0px;
    overflow: hidden;
-   
-   padding-bottom: 100px;
+   position: relative;
+  
 }
 
 p {
